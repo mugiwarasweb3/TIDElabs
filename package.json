@@ -1,0 +1,26 @@
+{
+  "name": "tidelabs",
+  "version": "1.0.0",
+  "description": "TIDElabs - Where Retro Meets Web3",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": [
+    "web3",
+    "retro",
+    "blockchain",
+    "crypto",
+    "waitlist",
+    "donations"
+  ],
+  "author": "TIDElabs Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mugiwarasweb3/TIDElabs.git"
+  },
+  "homepage": "https://tidelabs.vercel.app"
+}
